@@ -242,7 +242,7 @@ static double integrale= 0. ;
 /*
  ********************************************************************
  The main recursive function in the enumeration
- The action in the inner-most is either loop to
+ The action in the inner-most loop is either to
  store the node or to evaluate an integrand
  ********************************************************************
  */
