@@ -41,8 +41,8 @@ int main(int argc, const char * argv[]) {
         vector_Dn =initialize_tchebechev(20);
     
     // vector_Dn is a global variable, see chebyshev.h
-    // use n=1 if you want to enumerate Hadamard lattice
-    // use n=0 if you want to enumerate Chebechev lattice
+    // use choice=1 if you want to enumerate Hadamard lattice
+    // use choice=0 if you want to enumerate Chebechev lattice
     
     size_t n=4;// we enumerate in dimension d=2^n=16
     std::vector<size_t> vec_m(26);
