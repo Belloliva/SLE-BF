@@ -6,5 +6,11 @@ Code for the paper
 
 (Hiroshima Math. J. 52(2): 235-253 (July 2022). DOI: 10.32917/h2021046)
 
-See the notebook for more details
+See the notebook for more details.
 
+The algorithm was originally introduced in 
+
+"Enumeration of the Chebyshev-Frolov lattice points in axis-parallel boxes"
+by Kosuke Suzuki, Takehito Yoshiki
+
+(Hiroshima Math. J. 49(1): 139-159 (March 2019). DOI: 10.32917/hmj/1554516041)
