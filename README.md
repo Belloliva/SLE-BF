@@ -6,7 +6,7 @@ Code for the paper
 
 (Hiroshima Math. J. 52(2): 235-253 (July 2022). DOI: 10.32917/h2021046) 
 
-<a href="[http://example.com/](https://projecteuclid.org/journals/hiroshima-mathematical-journal/volume-52/issue-2/On-generation-and-enumeration-of-orthogonal-Chebyshev-Frolov-lattices/10.32917/h2021046.full)" target="_blank">[Link to paper]</a>
+<a href="https://projecteuclid.org/journals/hiroshima-mathematical-journal/volume-52/issue-2/On-generation-and-enumeration-of-orthogonal-Chebyshev-Frolov-lattices/10.32917/h2021046.full" target="_blank">[Link to paper] </a>
 
 
 See the notebook for more details.
